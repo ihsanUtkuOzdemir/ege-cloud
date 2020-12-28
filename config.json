@@ -3,7 +3,7 @@
         "host": "utku-azure-training.postgres.database.azure.com",
         "dbname": "postgres",
         "user": "UtkuOZ266",
-        "password": "f1r37g15#",
+        "password": "f1r37G15#",
         "ssl": "require"
     }
 }
